@@ -1,5 +1,3 @@
-<p><small>shanto522/README.md</small></p>
-
 <h1 align="center">Hi 👋, I'm Shahriar Nafij Santo</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
