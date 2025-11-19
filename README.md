@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/Mx5hFMxr/Gemini-Generated-Image-40hiri40hiri40hi.png" alt="Shahriar Nafij Santo Banner" width="100%"/> 
+  <img src="https://i.ibb.co.com/1JP0KGmH/Gemini-Generated-Image-40hiri40hiri40hi-Picsart-Ai-Image-Enhancer.png" alt="Shahriar Nafij Santo Banner" width="100%"/> 
 </p>
 
 <h1 align="center">Hi 👋, I'm Shahriar Nafij Santo</h1>
