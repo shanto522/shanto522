@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[Your Banner Image Link Here]" alt="Shahriar Nafij Santo Banner" width="100%"/> 
+</p>
+
 <h1 align="center">Hi 👋, I'm Shahriar Nafij Santo</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
@@ -49,54 +53,54 @@ Hi, I'm **Shahriar Nafij Santo**, a passionate **Frontend Web Developer**. I enj
 
 ### 🌱 Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanto522&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanto522&theme=react-dark&hide_border=true" />
 </p>
 
 ### 📈 Stats Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanto522&theme=dark&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanto522&theme=dark&hide_border=false&layout=compact" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shanto522&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shanto522&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanto522&theme=dark&hide_border=false&layout=compact" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shanto522&theme=dark&hide_border=false" height="150" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shanto522&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shanto522&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
 ## ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me  
 <p align="center">
-   <a href="https://facebook.com/shahriar.nafij.2002">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/shahriar-nafij-366764396">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:shahriarnafij000@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-   <a href="https://x.com/Nafij522">
-    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
-  </a>
-  <a href="https://behance.net/shahriarnafij1">
-    <img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
-  </a>
+   <a href="https://facebook.com/shahriar.nafij.2002">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/shahriar-nafij-366764396">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:shahriarnafij000@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+   <a href="https://x.com/Nafij522">
+    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+  </a>
+  <a href="https://behance.net/shahriarnafij1">
+    <img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## 👁️ Profile Views  
+## 👁️ Profile Views  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shanto522&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=shanto522&color=blue" alt="Profile Views"/>
 </p>
