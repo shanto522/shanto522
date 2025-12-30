@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/xShJC9ZZ/Gemini-Generated-Image-4kvzfn4kvzfn4kvz-Picsart-Ai-Image-Enhancer.png" height="100%" width="100%"/> 
+  <img src="https://i.ibb.co.com/xShJC9ZZ/Gemini-Generated-Image-4kvzfn4kvzfn4kvz-Picsart-Ai-Image-Enhancer.png" height="50%" width="100%"/> 
 </p>
 
 <h1 align="center">Hi 👋, I'm Shahriar Nafij Santo</h1>
